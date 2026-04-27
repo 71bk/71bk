@@ -26,6 +26,6 @@ Java, Spring Boot, Vue 3, PostgreSQL, MySQL, Redis, Docker, AWS EC2, Cloudflare,
 ## Connect
 
 - GitHub: [@71bk](https://github.com/71bk)
-- LinkedIn: [Isaac](https://www.linkedin.com/in/ianhsu-dev/)
+- LinkedIn: [Isaac](https://www.linkedin.com/in/isaac-hsu-dev/)
 - Portfolio: Coming soon
 - Email: kiwihsu828@gmail.com
